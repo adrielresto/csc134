@@ -7,6 +7,7 @@
 #include <cstdlib> // for rand()
 using namespace std;
 
+
 int main() {
     cout << "Welcome to the craps table " << endl;
     // set up variables
